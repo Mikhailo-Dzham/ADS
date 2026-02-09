@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a028c9c-79e1-4fb1-b5da-2a76286e9a10" name="Changes" comment="HW01 fix">
-      <change afterPath="$PROJECT_DIR$/Homework/HW01/t1_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW02/t2_7.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0a028c9c-79e1-4fb1-b5da-2a76286e9a10" name="Changes" comment="HW02">
+      <change afterPath="$PROJECT_DIR$/Homework/HW02/t2_11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/HW01/t01_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW01/t1_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/HW02/t2_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW02/t2_10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,13 +96,22 @@
       <option name="project" value="LOCAL" />
       <updated>1770074963127</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HW02">
+      <option name="closed" value="true" />
+      <created>1770665496433</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770665496433</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="HW01" />
     <MESSAGE value="HW01 fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW01 fix" />
+    <MESSAGE value="HW02" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW02" />
   </component>
 </project>
