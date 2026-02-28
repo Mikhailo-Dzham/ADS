@@ -1,5 +1,5 @@
 import time
-import user
+import user_6_4 as user #Change last number with 3 or 4 for change tasks
 from random import randint
 
 _book_catalog = {}
