@@ -16,7 +16,7 @@ def init():
 
 def addBook(author, title):
     """ Додає книгу до бібліотеки. """
-    idx = hash(author) % TABLE_SIZE
+    idx = my_hash(author) % TABLE_SIZE
 
     # Шукаємо автора у ланцюжку за обчисленим індексом
     for item in table[idx]:
@@ -32,7 +32,7 @@ def addBook(author, title):
 
 def find(author, title):
     """ Перевірає чи міститься задана книга у бібліотеці. """
-    idx = hash(author) % TABLE_SIZE
+    idx = my_hash(author) % TABLE_SIZE
 
     # Шукаємо автора в ланцюжку
     for item in table[idx]:
@@ -45,7 +45,7 @@ def find(author, title):
 
 def delete(author, title):
     """ Видаляє книгу з бібліотеки. """
-    idx = hash(author) % TABLE_SIZE
+    idx = my_hash(author) % TABLE_SIZE
 
     # Шукаємо автора в ланцюжку.
     # через enumerate берем індекс за яким делейтимо книгу
@@ -63,10 +63,20 @@ def delete(author, title):
 
 def findByAuthor(author):
     """ Повертає список книг заданого автора. """
-    idx = hash(author) % TABLE_SIZE
+    idx = my_hash(author) % TABLE_SIZE
 
     for item in table[idx]:
         if item[0] == author:
             return sorted(item[1])
 
     return [] #якщо автора немає
+
+############
+
+def my_hash(string):
+    hash_value = 0
+    p = 31  # має вистачити
+
+    for char in string:
+        hash_value = (hash_value * p + ord(char))
+    return hash_value

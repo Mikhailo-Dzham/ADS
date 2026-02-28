@@ -80,7 +80,7 @@ def findByAuthor(author):
 ########################
 
 def get_index(author): #Шукаємо індекс автора або перший вільний
-    idx = hash(author) % TABLE_SIZE # Хешом ж можна коримстуватися? його з нуля не треба писати?
+    idx = my_hash(author) % TABLE_SIZE # Хешом ж можна коримстуватися? його з нуля не треба писати?
     first_deleted = -1
 
     while table[idx] is not None:
@@ -93,3 +93,12 @@ def get_index(author): #Шукаємо індекс автора або перш
 
     # Якщо автора не знайдено, повертаємо місце для запису
     return first_deleted if first_deleted != -1 else idx
+
+
+def my_hash(string):
+    hash_value = 0
+    p = 31  #має вистачити
+
+    for char in string:
+        hash_value = (hash_value * p + ord(char))
+    return hash_value
