@@ -4,44 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a028c9c-79e1-4fb1-b5da-2a76286e9a10" name="Changes" comment="HW02">
-      <change afterPath="$PROJECT_DIR$/.idea/ADS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_02_03_2026_23_40_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_02_03_2026_23_40_[Changes]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_02_03_2026_23_40__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_02_03_2026_23_40__Changes_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassWork/CW06/t8_1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassWork/CW06/t8_1/user1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW01/t1_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW01/t1_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW02/t2_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW02/t2_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW02/t2_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW02/t2_13.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW02/t2_14.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW02/t2_7.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW03/t3_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW04/t4_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW04/t4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW04/t4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW04/t4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW04/t4_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW06/data/library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW06/data/library.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW06/data/library_orig.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW06/data/library_sorted.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW06/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW06/screenshots/t6_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW06/screenshots/t6_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW06/user_6_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW06/user_6_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW5/t5_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/initial.txt" afterDir="false" />
+    <list default="true" id="0a028c9c-79e1-4fb1-b5da-2a76286e9a10" name="Changes" comment="HW07">
+      <change afterPath="$PROJECT_DIR$/Homework/HW07/screenshots/t7_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW07/t7_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,6 +41,9 @@
     &quot;accountId&quot;: &quot;3b2189bc-9dca-47bd-b626-558a65b68eec&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -87,10 +56,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/ADS/Homework/HW07/screenshots"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\ADS\Homework\HW07\screenshots" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\ADS\Homework\HW02" />
     </key>
@@ -151,7 +124,23 @@
       <option name="project" value="LOCAL" />
       <updated>1772488044866</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HW07">
+      <option name="closed" value="true" />
+      <created>1772489141792</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772489141792</updated>
+    </task>
+    <task id="LOCAL-00007" summary="HW07">
+      <option name="closed" value="true" />
+      <created>1772490593141</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772490593141</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,7 +149,8 @@
     <MESSAGE value="HW01 fix" />
     <MESSAGE value="HW06 bug fix" />
     <MESSAGE value="HW02" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW02" />
+    <MESSAGE value="HW07" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
