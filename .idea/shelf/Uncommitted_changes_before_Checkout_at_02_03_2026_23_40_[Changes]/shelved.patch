@@ -1,0 +1,222 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"0a028c9c-79e1-4fb1-b5da-2a76286e9a10\" name=\"Changes\" comment=\"HW02\">\r\n      <change afterPath=\"$PROJECT_DIR$/Homework/HW02/t2_12.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Mikhailo-Dzham&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;git@github.com:Mikhailo-Dzham/ADS.git&quot;,\r\n    &quot;accountId&quot;: &quot;3b2189bc-9dca-47bd-b626-558a65b68eec&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 7\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"398D2Oy1sACkzREsQSpl18nmcDs\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\User\\PycharmProjects\\ADS\\Homework\\HW02\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"0a028c9c-79e1-4fb1-b5da-2a76286e9a10\" name=\"Changes\" comment=\"\" />\r\n      <created>1770068596813</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1770068596813</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Initial Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1770068761430</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1770068761430</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"HW01\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1770069371777</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1770069371777</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"HW01 fix\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1770074963127</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1770074963127</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"HW02\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1770665496433</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1770665496433</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Initial Commit\" />\r\n    <MESSAGE value=\"HW01\" />\r\n    <MESSAGE value=\"HW01 fix\" />\r\n    <MESSAGE value=\"HW02\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"HW02\" />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision ffad91dba1a3745781be8e4f69662d70634dbf76)
++++ b/.idea/workspace.xml	(date 1772487312501)
+@@ -4,8 +4,11 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="0a028c9c-79e1-4fb1-b5da-2a76286e9a10" name="Changes" comment="HW02">
+-      <change afterPath="$PROJECT_DIR$/Homework/HW02/t2_12.py" afterDir="false" />
++    <list default="true" id="0a028c9c-79e1-4fb1-b5da-2a76286e9a10" name="Changes" comment="HW06 bug fix">
++      <change afterPath="$PROJECT_DIR$/ClassWork/CW06/user2.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/ForNOS/stat.md" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/ADS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ADS.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -44,14 +47,23 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Python.main.executor": "Run",
++    "Python.t4_2.executor": "Run",
++    "Python.t4_3.executor": "Run",
++    "Python.t4_4.executor": "Run",
++    "Python.t4_5.executor": "Run",
++    "Python.t5_6.executor": "Run",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "git-widget-placeholder": "master",
++    "ignore.virus.scanning.warn.message": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\User\PycharmProjects\ADS\ClassWork\CW06\t8_1" />
++      <recent name="C:\Users\User\PycharmProjects\ADS\Homework\HW06\screenshots" />
+       <recent name="C:\Users\User\PycharmProjects\ADS\Homework\HW02" />
+     </key>
+   </component>
+@@ -103,7 +115,111 @@
+       <option name="project" value="LOCAL" />
+       <updated>1770665496433</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="HW02">
++      <option name="closed" value="true" />
++      <created>1770713860948</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1770713860948</updated>
++    </task>
++    <task id="LOCAL-00006" summary="HW02">
++      <option name="closed" value="true" />
++      <created>1770716693229</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1770716693229</updated>
++    </task>
++    <task id="LOCAL-00007" summary="HW02">
++      <option name="closed" value="true" />
++      <created>1770723347034</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1770723347034</updated>
++    </task>
++    <task id="LOCAL-00008" summary="HW02">
++      <option name="closed" value="true" />
++      <created>1771192140103</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1771192140103</updated>
++    </task>
++    <task id="LOCAL-00009" summary="HW05">
++      <option name="closed" value="true" />
++      <created>1771209582585</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1771209582585</updated>
++    </task>
++    <task id="LOCAL-00010" summary="HW05">
++      <option name="closed" value="true" />
++      <created>1771278905030</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1771278905030</updated>
++    </task>
++    <task id="LOCAL-00011" summary="HW04">
++      <option name="closed" value="true" />
++      <created>1771336403611</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1771336403611</updated>
++    </task>
++    <task id="LOCAL-00012" summary="HW04">
++      <option name="closed" value="true" />
++      <created>1771337162374</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1771337162374</updated>
++    </task>
++    <task id="LOCAL-00013" summary="HW04">
++      <option name="closed" value="true" />
++      <created>1771339255804</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1771339255804</updated>
++    </task>
++    <task id="LOCAL-00014" summary="HW04">
++      <option name="closed" value="true" />
++      <created>1772227712965</created>
++      <option name="number" value="00014" />
++      <option name="presentableId" value="LOCAL-00014" />
++      <option name="project" value="LOCAL" />
++      <updated>1772227712965</updated>
++    </task>
++    <task id="LOCAL-00015" summary="HW06 base">
++      <option name="closed" value="true" />
++      <created>1772291300412</created>
++      <option name="number" value="00015" />
++      <option name="presentableId" value="LOCAL-00015" />
++      <option name="project" value="LOCAL" />
++      <updated>1772291300412</updated>
++    </task>
++    <task id="LOCAL-00016" summary="HW06 bug fix">
++      <option name="closed" value="true" />
++      <created>1772295668502</created>
++      <option name="number" value="00016" />
++      <option name="presentableId" value="LOCAL-00016" />
++      <option name="project" value="LOCAL" />
++      <updated>1772295668502</updated>
++    </task>
++    <task id="LOCAL-00017" summary="HW06 bug fix">
++      <option name="closed" value="true" />
++      <created>1772311376861</created>
++      <option name="number" value="00017" />
++      <option name="presentableId" value="LOCAL-00017" />
++      <option name="project" value="LOCAL" />
++      <updated>1772311376861</updated>
++    </task>
++    <option name="localTasksCounter" value="18" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+@@ -111,6 +227,21 @@
+     <MESSAGE value="HW01" />
+     <MESSAGE value="HW01 fix" />
+     <MESSAGE value="HW02" />
+-    <option name="LAST_COMMIT_MESSAGE" value="HW02" />
++    <MESSAGE value="HW05" />
++    <MESSAGE value="HW04" />
++    <MESSAGE value="HW06 base" />
++    <MESSAGE value="HW06 bug fix" />
++    <option name="LAST_COMMIT_MESSAGE" value="HW06 bug fix" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <default-breakpoints>
++        <breakpoint type="python-exception">
++          <properties notifyOnTerminate="true" exception="BaseException">
++            <option name="notifyOnTerminate" value="true" />
++          </properties>
++        </breakpoint>
++      </default-breakpoints>
++    </breakpoint-manager>
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"Black\">\r\n    <option name=\"sdkName\" value=\"Python 3.10 (ADS)\" />\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python 3.10 (ADS)\" project-jdk-type=\"Python SDK\" />\r\n</project>
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision ffad91dba1a3745781be8e4f69662d70634dbf76)
++++ b/.idea/misc.xml	(date 1771194036903)
+@@ -3,5 +3,5 @@
+   <component name="Black">
+     <option name="sdkName" value="Python 3.10 (ADS)" />
+   </component>
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (ADS)" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (EOlip)" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
+Index: .idea/ADS.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <excludeFolder url=\"file://$MODULE_DIR$/.venv\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+===================================================================
+diff --git a/.idea/ADS.iml b/.idea/ADS.iml
+--- a/.idea/ADS.iml	(revision ffad91dba1a3745781be8e4f69662d70634dbf76)
++++ b/.idea/ADS.iml	(date 1771194036890)
+@@ -4,7 +4,7 @@
+     <content url="file://$MODULE_DIR$">
+       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+     </content>
+-    <orderEntry type="inheritedJdk" />
++    <orderEntry type="jdk" jdkName="Python 3.12 (EOlip)" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
