@@ -1,6 +1,5 @@
-import sys
 
-#Чесно, я цей код класса міг просто імпортувати з лабки...
+
 class Node:
     def __init__(self,item):
         self.item = item
@@ -51,19 +50,13 @@ class Stack:
         func = getattr(self,method)
         return func(*args)
 
-#######################################
 
-def solve():
-    testcase = sys.stdin.read().split("\n")
 
-    my_stack = Stack()
-
-    for case in testcase:
-        func = case.split()
-        result = my_stack.execute(case)
-        print(result)
-        if case == "exit":
-            break
-
-if __name__ == '__main__':
-    solve()
+if __name__ == "__main__":
+    with open("input.txt") as f:
+        stack = Stack()
+        for line in f:
+            res = stack.execute(line)
+            print(res)
+            if res == "bye":
+                break
