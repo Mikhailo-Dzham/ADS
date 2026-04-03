@@ -1,5 +1,5 @@
 class Queue():
-    def __init__(self, capacity=100):
+    def __init__(self, capacity=100_000): # :)))))
         self.data = [0] * capacity
         self.capacity = capacity
         self.first = None
@@ -17,6 +17,9 @@ class Queue():
         print("ok")
 
     def pop(self):
+        if self.__size == 0:
+            print("error")
+            return
         val = self.data[self.first]
         if self.first == self.last:
             self.first = None
@@ -28,6 +31,9 @@ class Queue():
         return val
 
     def front(self):
+        if self.__size == 0:
+            print("error")
+            return
         val = self.data[self.first]
         print(val)
         return val
@@ -41,6 +47,9 @@ class Queue():
         self.last = None
         self.__size = 0
         print("ok")
+
+    def _overflow_check(self):
+        pass
 
 
 def exit():
