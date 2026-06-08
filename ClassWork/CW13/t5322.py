@@ -1,4 +1,3 @@
-
 class Node:
     def __init__(self,item):
         self.item = item
@@ -49,7 +48,4 @@ class Stack:
         func = getattr(self,method)
         return func(*args)
 
-stk = Stack()
-
-for el in data:
-    pass
+class Stack
